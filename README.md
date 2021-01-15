@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/ellameta/Simple-basic-image-gallery-by-me/main/previewIMG.png)
+
 # Simple-basic-image-gallery
 A very simple image gallery created with HTML, CSS and JavaScript.
 
